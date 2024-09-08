@@ -1,0 +1,9 @@
+mlflow 
+numpy
+pandas
+scikit-learn
+dataclasses
+flask
+nltk
+dill
+-e .
